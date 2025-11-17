@@ -36,15 +36,15 @@ Surface plane
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-Dunkin Donuts
+Nespresso
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/Homepage_DD.png" width="375px" alt="de home pagina">
+  <img src="readme-images/nespresso.home.jpg" width="375px" alt="screenshot home pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/Aboutus_DD.png" width="375px" alt="de about us pagina">
+  <img src="readme-images/nespresso.more.jpg" width="375px" alt="screenshot Nespresso & more pagina">
  
 </details>
 
@@ -53,10 +53,19 @@ Dunkin Donuts
 ## Toegankelijkheidstest 1/2 (week 1)
 
 <details>
-  <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
+  <summary>Uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+  Fysieke toegankelijkheidstest:
+  Spasmes/Parkinson:
+Zolang het kleine schokken zijn is het allemaal goed te doen, maar zodra het hardere schokken zijn zijn de kleine vakjes moeilijk klikbaar. De kleine vakjes zijn dan te klein om op te ‘richten’ bij hardere schokken.
+
+Slechte motoriek:
+Met een slechte motoriek is de website goed toegankelijk. Het scrollen en klikken gaat beide gemakkelijk.
+
+Slechtziend:
+De grotere en dikkere letters zijn prima te lezen. De kleine, dunnere letters zijn slecht te lezen. De kleine letters op afbeeldingen zijn niet te lezen.
+
 
 </details>
 
