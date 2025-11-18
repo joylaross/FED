@@ -39,12 +39,12 @@ Surface plane
 Nespresso
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  Nespresso Home  
   <img src="readme-images/nespresso.home.jpg" width="375px" alt="screenshot home pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/nespresso.more.jpg" width="375px" alt="screenshot Nespresso & more pagina">
+  Nespresso & More  
+  <img src="readme-images/nespresso.more.png" width="375px" alt="screenshot Nespresso & more pagina">
  
 </details>
 
@@ -56,8 +56,8 @@ Nespresso
   <summary>Uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Fysieke toegankelijkheidstest:
-  Spasmes/Parkinson:
+Fysieke toegankelijkheidstest:
+Spasmes/Parkinson:
 Zolang het kleine schokken zijn is het allemaal goed te doen, maar zodra het hardere schokken zijn zijn de kleine vakjes moeilijk klikbaar. De kleine vakjes zijn dan te klein om op te ‘richten’ bij hardere schokken.
 
 Slechte motoriek:
@@ -66,7 +66,13 @@ Met een slechte motoriek is de website goed toegankelijk. Het scrollen en klikke
 Slechtziend:
 De grotere en dikkere letters zijn prima te lezen. De kleine, dunnere letters zijn slecht te lezen. De kleine letters op afbeeldingen zijn niet te lezen.
 
-
+WCAG toegankelijkheidstest:
+- Menubalk wordt soms overgeslagen
+- Segment hebben allemaal zelfde naam
+- Segment gebruiken kan niet
+- Links worden dubbel voorgelezen
+- & wordt niet voorgelezen
+- Nespresso & More wordt deel na carroussel overgeslagen
 </details>
 
 
