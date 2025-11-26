@@ -7,9 +7,6 @@ Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal
 Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
 
 
-
-
-
 ## Jij
 
 <details open>
@@ -40,11 +37,11 @@ Nespresso
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Nespresso Home  
-  <img src="readme-images/nespresso.home.jpg" width="375px" alt="screenshot home pagina">
+  <img src="readme-images/nespresso.home-small.png" width="375px" alt="screenshot home pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Nespresso & More  
-  <img src="readme-images/nespresso.more.png" width="375px" alt="screenshot Nespresso & more pagina">
+  <img src="readme-images/nespresso&more-small.png" width="375px" alt="screenshot Nespresso & more pagina">
  
 </details>
 
@@ -83,13 +80,19 @@ WCAG toegankelijkheidstest:
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/nespresso-home-breakdown.png" width="375px" alt="breakdown van de hele pagina">
 
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+   ### de hele pagina: 
+  <img src="readme-images/nespresso&more-breakdown.png" width="375px" alt="breakdown van de hele tweede pagina">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  ### dynamisch deel: 
+  <img src="readme-images/breakdown-blok1.png" width="375px" alt="breakdown van een dynamisch deel">
+
+  ### tweede dynamische deel: 
+  <img src="readme-images/breakdown-blok2.png" width="375px" alt="breakdown van nog een tweede dynamisch deel">
+
+  ### derde dynamische deel: 
+  <img src="readme-images/breakdown-blok3.png" width="375px" alt="breakdown van nog een derde dynamisch deel">
 
 </details>
 
