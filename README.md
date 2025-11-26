@@ -79,19 +79,19 @@ WCAG toegankelijkheidstest:
 <details>
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
-  ### de hele pagina: 
+  ### De hele pagina: 
   <img src="readme-images/nespresso-home-breakdown.png" width="375px" alt="breakdown van de hele pagina">
 
-   ### de hele pagina: 
+   ### De tweede hele pagina: 
   <img src="readme-images/nespresso&more-breakdown.png" width="375px" alt="breakdown van de hele tweede pagina">
 
-  ### dynamisch deel: 
+  ### Dynamisch deel: 
   <img src="readme-images/breakdown-blok1.png" width="375px" alt="breakdown van een dynamisch deel">
 
-  ### tweede dynamische deel: 
+  ### Tweede dynamische deel: 
   <img src="readme-images/breakdown-blok2.png" width="375px" alt="breakdown van nog een tweede dynamisch deel">
 
-  ### derde dynamische deel: 
+  ### Derde dynamische deel: 
   <img src="readme-images/breakdown-blok3.png" width="375px" alt="breakdown van nog een derde dynamisch deel">
 
 </details>
