@@ -106,26 +106,29 @@ WCAG toegankelijkheidstest:
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik vond het beginnen van mijn website lastig, het was echt weer even inkomen. Nu de basis voor mijn html staat, ben ik gemotiveerd om er een mooie website van te gaan maken?
 
 
   ### Agenda voor meeting
-  samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Joy      | Dirk         | Maks   |
+  | Wat was ook alweer de sneltoets om code netjes te laten inspringen?| Mogen bepaalde dingen verbeterd worden of eigen invulling krijgen. Bijvoorbeeld een echt hamburgermenu ipv. een paginavullend menu? | ---          | 
+  | Ga ik de goede kant op met mijn HTML?  | Is mijn website goed genoeg voor dit vak, niet te simpel?  | Doornemen breakdown van mijn breakdownschetsen. Kijken of ze goed zijn.  |
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+ 
+Geen classes
+Section altijd heading
+Button -> als iets op dezelfde pagina blijft
+Link -> wanneer je naar andere pagina gaat
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+H1 is titel van pagina 
+Op de main pagina mag je h1 maken van je logo als het gekke h1 is
+
+Nespresso als m’n H1 doen, niet ‘It’s Gifting Friday!’
+
+Koffie, machines en accessoires -> articles
 
 </details>
 
