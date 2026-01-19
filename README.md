@@ -23,10 +23,6 @@ Surface plane
  
 </details>
 
-
-
-
-
 ## Je website
 
 <details open>
@@ -96,10 +92,6 @@ WCAG toegankelijkheidstest:
 
 </details>
 
-
-
-
-
 ## Voortgang 1 (week 2)
 
 <details>
@@ -132,42 +124,18 @@ Koffie, machines en accessoires -> articles
 
 </details>
 
-
-
-
-
 ## Voortgang 2 (week 3)
 
 <details>
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+Ik ben weer ingekomen en ben goed op weg met mijn html. Wel vroeg ik mij af hoe ik de elementen allemaal op de juiste manier moest gaan aanroepen in mijn css.
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+Ik heb opnieuw gevraagd of ik goed op weg was met mijn codes en het antwoord hierop was; ja. Ik heb kunnen vragen hoe ik op de juiste manier de elementen moest aanroepen in mijn css. Het antwoord was dat ik meerdere css bestanden moest gaan gebruiken, dus daar ging ik mee aan de slag!
 
 </details>
-
-
-
-
 
 ## Toegankelijkheidstest 2/2 (week 4)
 
@@ -175,13 +143,14 @@ Koffie, machines en accessoires -> articles
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
-
+- Gebruik van semantische HTML (header, nav, main, section, article, juiste headings) voor een duidelijke structuur voor screenreaders.
+- Alle icon-only knoppen hebben duidelijke aria-labels (bijv. menu, zoeken, winkelmand).
+- Interactieve onderdelen geven hun status door met aria-expanded en aria-pressed.
+- Afbeeldingen hebben betekenisvolle alt-teksten; decoratieve beelden hebben alt="" en aria-hidden="true".
+- Correct gebruik van <button> en <a>, zodat toetsenbordbediening vanzelf goed werkt.
+- Toevoeging van tekstgrootte-instellingen en een licht/donker-modus voor gebruikers met visuele beperkingen.
+- Mobile-first en flex/grid zorgen dat de pagina ook bij inzoomen en op kleine schermen goed leesbaar blijft.
 </details>
-
-
-
-
 
 ## Voortgang 3 (week 4)
 
@@ -189,32 +158,8 @@ Koffie, machines en accessoires -> articles
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-
+Op dit moment had ik geen specifieke vragen, dus heb ik ervoor gekozen om deze tijd te gebruiken om verder te werken aan mijn eigen website.
 </details>
-
-
-
-
 
 ## Eindgesprek (week 5)
 
@@ -226,32 +171,103 @@ Koffie, machines en accessoires -> articles
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+Ik ben trots op het eindresultaat van mijn twee pagina’s. Omdat ik coderen vaak moeilijk en soms ook frustrerend vind, vind ik dat ik trots mag zijn op wat ik heb neergezet. Het onderdeel dat naar mijn mening het beste is gelukt, is de header van de pagina. In het begin keek ik hier erg tegenop, maar met behulp van goede bronnen en de oefeningen uit de les is het uiteindelijk goed gelukt. Daarnaast ben ik ook tevreden over de surface-plane-elementen die ik in de header heb toegevoegd; deze passen goed bij de uitstraling van de pagina en sluiten aan bij de stijl van Nespresso.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/trots.jpg" width="375px" alt="header van de pagina">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+Ondanks veel moeite en uren sleutelen is het mij helaas niet gelukt om de footer van index.html anders te maken dan die van de tweede pagina. Dit vind ik jammer, omdat ik hier graag meer verschil in had willen aanbrengen. Als ik meer tijd had gehad, had ik daarnaast nog enkele kleine aanpassingen gedaan om de algehele lay-out van de pagina’s verder te verfijnen. Denk hierbij aan het consistenter maken van buttons, kleuren en afstanden, zodat alles nog beter op elkaar zou aansluiten.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/niet-gelukt.jpg" width="375px" alt="footer van de index.html pagina">
 </details>
-
-
-
-
 
 ## Bronnenlijst
 
 <details open>
   <summary>continu bijhouden terwijl je werkt</summary>
 
-  Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg). 
-  Nb. ChatGpT en andere AI horen er ook bij.
-  Nb. Vermeld de bronnen ook in je code.
-
-  1. bron 1
-  2. bron 2
-  3. ...
+- MDN: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/header
+- MDN : https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/nav
+- MDN aria-label: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Attributes/aria-label
+- MDN aria-expanded: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Attributes/aria-expanded
+- WAI-ARIA APG Disclosure Navigation: https://www.w3.org/WAI/ARIA/apg/patterns/disclosure/examples/disclosure-navigation/
+- WAI-ARIA APG Button (aria-pressed toggle): https://www.w3.org/WAI/ARIA/apg/patterns/button/
+- MDN aria-live: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Attributes/aria-live
+- MDN aria-atomic: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Attributes/aria-atomic
+- MDN aria-hidden: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Attributes/aria-hidden
+- MDN : https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/section
+- MDN headings: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/Heading_Elements
+- WAI-ARIA APG Carousel pattern: https://www.w3.org/WAI/ARIA/apg/patterns/carousel/
+- Chrome for Developers (accessible carousel): https://developer.chrome.com/blog/accessible-carousel
+- W3C WAI Images tutorial: https://www.w3.org/WAI/tutorials/images/
+- W3C WAI Informative images: https://www.w3.org/WAI/tutorials/images/informative/
+- MDN : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video
+- web.dev autoplay video best practices: https://web.dev/autoplay/
+- W3C WCAG – Animation & motion: https://www.w3.org/WAI/WCAG21/Understanding/animation-from-interactions.html
+- WHATWG : https://html.spec.whatwg.org/multipage/sections.html#the-footer-element
+- MDN HTML elements reference (footer): https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements
+- MDN : https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/details
+- MDN: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/summary
+- WAI-ARIA APG Disclosure pattern: https://www.w3.org/WAI/ARIA/apg/patterns/ (Disclosure)
+- MDN Accessible name (aria-label): https://developer.mozilla.org/en-US/docs/Glossary/Accessible_name
+- WCAG technique ARIA14 (aria-label): https://www.w3.org/WAI/WCAG21/Techniques/aria/ARIA14
+- WAI-ARIA APG Carousel pattern: https://www.w3.org/WAI/ARIA/apg/patterns/carousel/
+- MDN aria-label: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Attributes/aria-label
+- WCAG Technique ARIA14 (aria-label): https://www.w3.org/WAI/WCAG21/Techniques/aria/ARIA14
+- MDN aria-hidden: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Attributes/aria-hidden
+- W3C WAI Images tutorial: https://www.w3.org/WAI/tutorials/images/
+- W3C WAI Informative images: https://www.w3.org/WAI/tutorials/images/informative/
+- W3C WAI Alt decision tree: https://www.w3.org/WAI/tutorials/images/decision-tree/
+- WAI-ARIA APG Carousel pattern: https://www.w3.org/WAI/ARIA/apg/patterns/carousel/
+- WAI-ARIA carousel example: https://www.w3.org/TR/2019/NOTE-wai-aria-practices-1.1-20190207/examples/carousel/carousel-1/carousel-1.html
+- WAI-ARIA APG Tabs pattern (optioneel bij tabbed carousel/indicators): https://www.w3.org/WAI/ARIA/apg/patterns/tabs/
+- Smashing Magazine (grouped vs tabbed carousel): https://www.smashingmagazine.com/2023/02/guide-building-accessible-carousels/
+- MDN aria-label: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Attributes/aria-label
+- MDN article role (semantiek van “losstaand item”): https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Roles/article_role
+- MDN HTML elements reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements
+- MDN querySelector: https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
+- MDN addEventListener: https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
+- MDN aria-expanded: https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Attributes/aria-expanded
+- WAI-ARIA APG Disclosure/Menu Button: https://www.w3.org/WAI/ARIA/apg/patterns/disclosure/
+- MDN keydown event: https://developer.mozilla.org/en-US/docs/Web/API/Document/keydown_event
+- MDN scrollBy(): https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollBy
+- MDN addEventListener: https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
+- WAI-ARIA APG Carousel pattern: https://www.w3.org/WAI/ARIA/apg/patterns/carousel/
+- web.dev Horizontal scrolling: https://web.dev/patterns/layout/horizontal-scrolling/
+- MDN scrollBy(): https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollBy
+- MDN addEventListener: https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
+- WAI-ARIA APG Carousel pattern: https://www.w3.org/WAI/ARIA/apg/patterns/carousel/
+- web.dev Horizontal scrolling: https://web.dev/patterns/layout/horizontal-scrolling/
+- MDN querySelectorAll: https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll
+- MDN scrollLeft: https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollLeft
+- MDN getComputedStyle: https://developer.mozilla.org/en-US/docs/Web/API/Window/getComputedStyle
+- MDN cloneNode: https://developer.mozilla.org/en-US/docs/Web/API/Node/cloneNode
+- MDN requestAnimationFrame: https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame
+- WAI-ARIA APG Carousel pattern: https://www.w3.org/WAI/ARIA/apg/patterns/carousel/
+- MDN closest(): https://developer.mozilla.org/en-US/docs/Web/API/Element/closest
+- MDN dataset: https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/dataset
+- MDN classList: https://developer.mozilla.org/en-US/docs/Web/API/Element/classList
+- MDN NodeList.forEach(): https://developer.mozilla.org/en-US/docs/Web/API/NodeList/forEach
+- MDN matchMedia(): https://developer.mozilla.org/en-US/docs/Web/API/Window/matchMedia
+- MDN resize event: https://developer.mozilla.org/en-US/docs/Web/API/Window/resize_event
+- MDN localStorage: https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+- MDN querySelectorAll: https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll
+- MDN dataset (data-*): https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/dataset
+- MDN localStorage: https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+- WAI-ARIA APG Button pattern (toggle): https://www.w3.org/WAI/ARIA/apg/patterns/button/
+- MDN querySelector: https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
+- MDN classList: https://developer.mozilla.org/en-US/docs/Web/API/Element/classList
+- MDN DOMContentLoaded: https://developer.mozilla.org/en-US/docs/Web/API/Document/DOMContentLoaded_event
+- MDN requestAnimationFrame: https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame
+- MDN matchMedia(): https://developer.mozilla.org/en-US/docs/Web/API/Window/matchMedia
+- MDN prefers-reduced-motion: https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion
+- MDN classList: https://developer.mozilla.org/en-US/docs/Web/API/Element/classList
+- MDN wheel event: https://developer.mozilla.org/en-US/docs/Web/API/Element/wheel_event
+- web.dev Reduced motion: https://web.dev/prefers-reduced-motion/
+- MDN querySelectorAll: https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll
+- MDN localStorage: https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
+- MDN textContent: https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent
+- W3C Accessible Name: https://www.w3.org/TR/accname-1.2/
 
 </details>
